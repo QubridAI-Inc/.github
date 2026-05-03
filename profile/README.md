@@ -1,7 +1,7 @@
 <img src="https://ai-platform-images.s3.us-east-1.amazonaws.com/AI-Image/The+Full+AI+Stack+-+Qubrid+AI.png" width="100%"/>
 <div align="center">
 
-[🔗 Website](https://www.qubrid.com/) | [📖 Docs](https://docs.platform.qubrid.com/) | [🧪 Playground](https://platform.qubrid.com/playground) | [📚 Blog](https://www.qubrid.com/blog-news)
+[🔗 Website](https://www.qubrid.com/) | [📖 Docs](https://docs.platform.qubrid.com/) | [🧪 Playground](https://platform.qubrid.com/playground) | [🗝️ Get Model API Key](https://platform.qubrid.com/api-keys) | [📚 Blog](https://www.qubrid.com/blog-news)
 
 <!-- <h1 style="background: linear-gradient(to right, #8A2BE2, #4B0082); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3em; font-weight: bold;">Welcome to Qubrid AI</h1> -->
 
