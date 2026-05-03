@@ -7,8 +7,6 @@
 One fullstack platform for **Compute**, **Inference**, **Fine-tuning**, and **RAG** on **Open Source Models**.
 </div>
 
----
-
 ## 🚀 Model Gallery
 
 <table>
@@ -110,8 +108,6 @@ One fullstack platform for **Compute**, **Inference**, **Fine-tuning**, and **RA
 
 </tr>
 </table>
-
----
 
 ## 🚀 What You Can Do with Qubrid
 
