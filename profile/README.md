@@ -108,11 +108,13 @@ One fullstack platform for **Compute**, **Inference**, **Fine-tuning**, and **RA
 </tr>
 
 <tr>
-<td align="center" width="200"><a href="https://platform.qubrid.com/model/tencent-hunyuan-ocr"><img src="https://ai-platform-images.s3.us-east-1.amazonaws.com/modelslogo/tencent.svg" width="60"/><br/><b>Tencent Hunyuan OCR</b></a><br/><sub>OCR • Vision</sub></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="center" colspan="5">
+<a href="https://platform.qubrid.com/model/tencent-hunyuan-ocr">
+<img src="https://ai-platform-images.s3.us-east-1.amazonaws.com/modelslogo/tencent.svg" width="60"/><br/>
+<b>Tencent Hunyuan OCR</b>
+</a><br/>
+<sub>OCR • Vision</sub>
+</td>
 </tr>
 
 </table>
