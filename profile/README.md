@@ -44,19 +44,19 @@ One fullstack platform for **Compute**, **Inference**, **Fine-tuning**, and **RA
 </tr>
 
 <tr>
-<td align="center" width="200"><a href="https://platform.qubrid.com/model/openai-gpt-4o"><img src="https://ai-platform-images.s3.us-east-1.amazonaws.com/AI-Image/qubrid-model-logo/openai_logo_dark.svg" width="60"/><br/><b>GPT-4o</b></a><br/><sub>Multimodal • Fast</sub></td>
-<td align="center" width="200"><a href="https://platform.qubrid.com/model/openai-gpt-4o-mini"><img src="https://ai-platform-images.s3.us-east-1.amazonaws.com/AI-Image/qubrid-model-logo/openai_logo_dark.svg" width="60"/><br/><b>GPT-4o Mini</b></a><br/><sub>Lightweight • Fast</sub></td>
-<td align="center" width="200"><a href="https://platform.qubrid.com/model/openai-gpt-5-4"><img src="https://ai-platform-images.s3.us-east-1.amazonaws.com/AI-Image/qubrid-model-logo/openai_logo_dark.svg" width="60"/><br/><b>GPT-5.4</b></a><br/><sub>Next Gen • Reasoning</sub></td>
-<td align="center" width="200"><a href="https://platform.qubrid.com/model/openai-gpt-5-4-mini"><img src="https://ai-platform-images.s3.us-east-1.amazonaws.com/AI-Image/qubrid-model-logo/openai_logo_dark.svg" width="60"/><br/><b>GPT-5.4 Mini</b></a><br/><sub>Efficient • Fast</sub></td>
-<td align="center" width="200"><a href="https://platform.qubrid.com/model/openai-gpt-5-4-nano"><img src="https://ai-platform-images.s3.us-east-1.amazonaws.com/AI-Image/qubrid-model-logo/openai_logo_dark.svg" width="60"/><br/><b>GPT-5.4 Nano</b></a><br/><sub>Ultra Fast • Lightweight</sub></td>
-</tr>
-
-<tr>
 <td align="center" width="200"><a href="https://platform.qubrid.com/model/qwen3-coder-next"><img src="https://ai-platform-images.s3.us-east-1.amazonaws.com/AI-Image/qubrid-model-logo/Qwen_logo.svg" width="60"/><br/><b>Qwen3 Coder Next</b></a><br/><sub>Advanced • Coding</sub></td>
 <td align="center" width="200"><a href="https://platform.qubrid.com/model/qwen3-coder-plus"><img src="https://ai-platform-images.s3.us-east-1.amazonaws.com/AI-Image/qubrid-model-logo/Qwen_logo.svg" width="60"/><br/><b>Qwen3 Coder Plus</b></a><br/><sub>Balanced • Coding</sub></td>
 <td align="center" width="200"><a href="https://platform.qubrid.com/model/anthropic-claude-haiku-4-5-20251001"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" width="60"/><br/><b>Claude Haiku 4.5</b></a><br/><sub>Fast • Efficient</sub></td>
 <td align="center" width="200"><a href="https://platform.qubrid.com/model/anthropic-claude-opus-4-5"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" width="60"/><br/><b>Claude Opus 4.5</b></a><br/><sub>Premium • Reasoning</sub></td>
 <td align="center" width="200"><a href="https://platform.qubrid.com/model/anthropic-claude-opus-4-6"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" width="60"/><br/><b>Claude Opus 4.6</b></a><br/><sub>Advanced • Reasoning</sub></td>
+</tr>
+
+<tr>
+<td align="center" width="200"><a href="https://platform.qubrid.com/model/openai-gpt-4o"><img src="https://ai-platform-images.s3.us-east-1.amazonaws.com/AI-Image/qubrid-model-logo/openai_logo_dark.svg" width="60"/><br/><b>GPT-4o</b></a><br/><sub>Multimodal • Fast</sub></td>
+<td align="center" width="200"><a href="https://platform.qubrid.com/model/openai-gpt-4o-mini"><img src="https://ai-platform-images.s3.us-east-1.amazonaws.com/AI-Image/qubrid-model-logo/openai_logo_dark.svg" width="60"/><br/><b>GPT-4o Mini</b></a><br/><sub>Lightweight • Fast</sub></td>
+<td align="center" width="200"><a href="https://platform.qubrid.com/model/openai-gpt-5-4"><img src="https://ai-platform-images.s3.us-east-1.amazonaws.com/AI-Image/qubrid-model-logo/openai_logo_dark.svg" width="60"/><br/><b>GPT-5.4</b></a><br/><sub>Next Gen • Reasoning</sub></td>
+<td align="center" width="200"><a href="https://platform.qubrid.com/model/openai-gpt-5-4-mini"><img src="https://ai-platform-images.s3.us-east-1.amazonaws.com/AI-Image/qubrid-model-logo/openai_logo_dark.svg" width="60"/><br/><b>GPT-5.4 Mini</b></a><br/><sub>Efficient • Fast</sub></td>
+<td align="center" width="200"><a href="https://platform.qubrid.com/model/openai-gpt-5-4-nano"><img src="https://ai-platform-images.s3.us-east-1.amazonaws.com/AI-Image/qubrid-model-logo/openai_logo_dark.svg" width="60"/><br/><b>GPT-5.4 Nano</b></a><br/><sub>Ultra Fast • Lightweight</sub></td>
 </tr>
 
 <tr>
